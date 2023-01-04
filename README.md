@@ -1,5 +1,7 @@
 # Sim-Project
-Explanation and files for Georgia Tech's simulation project on infectious disease
+Explanation and files for Georgia Tech's group simulation project on infectious disease. Arena file written by Anthea Mitchell, project included two other members for analysis and output processing.
+
+Includes .doe file and screenshots of simulation.
 
 The Arena model was constructed to simulate an influenza outbreak scenario and was built on a framework of variables, attributes, and conditional decision branches. These all functioned within a system of time kept by “hour” entities created and disposed of in a separate work stream parallel to the main branch.
 
